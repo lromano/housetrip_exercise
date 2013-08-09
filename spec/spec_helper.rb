@@ -1,4 +1,4 @@
-require_relative "../compress_uncompress"
+require_relative "../string_compressor_decompressor"
 
 RSpec.configure do |config|
   config.color_enabled = true
